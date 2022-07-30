@@ -6,7 +6,7 @@
   "license": "MIT",
   "prettier": {},
   "scripts": {
-    "test": "jest --watchAll --verbose"
+    "test": "jest --watch --verbose"
   },
   "devDependencies": {
     "@types/jest": "^28.1.6",

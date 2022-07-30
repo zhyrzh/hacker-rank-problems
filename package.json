@@ -1,0 +1,15 @@
+{
+  "name": "hacker-rank-porblems",
+  "version": "1.0.0",
+  "description": "Solutions to hacker rank problems (My hacker rank journey)",
+  "main": "index.js",
+  "license": "MIT",
+  "prettier": {},
+  "scripts": {
+    "test": "jeset --watchAll --verbose"
+  },
+  "devDependencies": {
+    "@types/jest": "^28.1.6",
+    "jest": "^28.1.3"
+  }
+}

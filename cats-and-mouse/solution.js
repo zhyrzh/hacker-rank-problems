@@ -7,3 +7,5 @@ function catAndMouse(x, y, z) {
     return "Mouse C";
   }
 }
+
+module.exports.catsAndMouse = catAndMouse;

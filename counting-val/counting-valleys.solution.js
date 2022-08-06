@@ -42,8 +42,6 @@ function countingValleys(steps, path) {
       }
     }
     if (!!inValley && depth >= seaLevel) {
-      console.log(i);
-      console.log("Run");
       valleyCount++;
     }
   }
